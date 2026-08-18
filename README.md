@@ -24,6 +24,7 @@
 
 The **Enterprise Regulatory Intelligence System** is an end-to-end Retrieval-Augmented Generation (RAG) system engineered to solve the challenge of manual regulatory compliance and dense policy navigation within financial institutions. 
 
+![Enterprise Regulatory Intelligence System Demo](images/rbi-assistant-ai.png)
 By ingesting unstructured regulatory circulars (such as **Reserve Bank of India (RBI) MSME guidelines**) alongside technical knowledge bases, the system allows compliance officers, risk analysts, and internal auditors to query dense policy documents in real-time. It enforces strict **Chain-of-Thought (CoT)** reasoning to eliminate hallucinations and produce context-grounded, audit-ready answers.
 
 ---
